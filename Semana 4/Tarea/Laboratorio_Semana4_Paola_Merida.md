@@ -1,6 +1,7 @@
 # Mini-lab Orange — Churn y CLV
 
 ## Captura del flujo completo de Orange
+<img width="795" height="538" alt="Captura del flujo completo de Orange - Paola M" src="https://github.com/user-attachments/assets/06daa793-09cd-4dd9-8d5c-8bb5db83ea36" />
 
 ## Resultados de los modelos
 
